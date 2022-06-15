@@ -8,9 +8,15 @@ nav {
 .hireme {
   background-color: #ffb742;
 }
-.name{
-    color: #ffb742;
+.name {
+  color: #ffb742;
 }
-skill-logo{
-    background-color: #383E45;
+.skill-logo {
+  background-color: #383e45;
+}
+.footer {
+  background-color: #ffb742;
+}
+section{
+  padding-top: 5rem;
 }
